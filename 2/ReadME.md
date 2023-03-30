@@ -7,11 +7,11 @@ This is a simple form that is built using the Express framework and connected to
 1. Clone the repository:
 
 2. Install the dependencies:
-    npm install
+    **npm install**
 3. Create a `.env` file with the following contents:   
     
 4. Start the server:
-   npm start
+   **npm start**
   
 ## Usage
 
