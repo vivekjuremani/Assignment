@@ -9,7 +9,7 @@ This is a simple form that is built using the Express framework and connected to
 2. Install the dependencies:
     **npm install**
 3. Create a `.env` file with the following contents:   
-    
+    **MONGODB_URI=`<your-mongodb-uri>`**
 4. Start the server:
    **npm start**
   
